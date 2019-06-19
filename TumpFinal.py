@@ -31,7 +31,7 @@ from email.mime.text import MIMEText
 client_id = "c2aiMTmEQXnK5nZxnwu9"
 client_secret = "fYDB7FeEIY"
 
-
+#딜
 class test:
     #maildata =""
     def __init__(self):
